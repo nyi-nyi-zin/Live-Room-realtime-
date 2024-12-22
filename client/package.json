@@ -11,9 +11,12 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
+    "caniuse-lite": "^1.0.30001690",
+    "date-fns": "^4.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.16.0"
+    "react-router-dom": "^6.16.0",
+    "socket.io-client": "^4.8.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
